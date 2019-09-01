@@ -1,2 +1,2 @@
 # for_heroku
-herokuデプロイ用
+herokuデプロイ用だよ(・∀・)
