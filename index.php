@@ -1,2 +1,6 @@
 <?php
-echo 'Hello, world!!';
+$post_body = "hogehoge";
+
+echo $post_body;
+
+?>
