@@ -1,5 +1,4 @@
 <?php
-$post_body = "payload={\"text\": \"\u307b\u3052\u307b\u3052\" }";
 
 function send_to_slack($message) {
   $webhook_url = 'https://hooks.slack.com/services/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';
@@ -16,7 +15,7 @@ function send_to_slack($message) {
 
 $message = array(
   'username' => 'phpBot',
-  'text' => 'fooooo;;',
+  'text' => 'https://shin-firstapp.herokuapp.com/にアクセスきたよ(・∀・)',
 );
 
 send_to_slack($message);
