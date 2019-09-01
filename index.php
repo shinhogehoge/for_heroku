@@ -1,7 +1,7 @@
 <?php
 
 function send_to_slack($message) {
-  $webhook_url = 'https://hooks.slack.com/services/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';
+  $webhook_url = 'https://hooks.slack.com/services/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';
   $options = array(
     'http' => array(
       'method' => 'POST',
